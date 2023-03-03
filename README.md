@@ -1,7 +1,7 @@
 # THE LAPTOP GUIDE.
 
 ---
-<img src="https://thumbs.dreamstime.com/b/man-thinking-computer-programing-215736001.jpg" width="425"/> <img src="https://thumbs.dreamstime.com/b/woman-thinking-laptop-computer-229104644.jpg" width="425"/> 
+<img src="https://thumbs.dreamstime.com/b/man-thinking-computer-programing-215736001.jpg" width="300"/> <img src="https://thumbs.dreamstime.com/b/woman-thinking-laptop-computer-229104644.jpg" width="300"/> 
 ---
 ## An Exploratory  Data Analysis on the Laptops information from  Flipkart  in India.
 ## Background

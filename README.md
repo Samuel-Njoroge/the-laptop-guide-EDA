@@ -14,21 +14,7 @@ customer reviews and ratings
 prices. 
 
 
-Dowload the dataset here : https://www.kaggle.com/datasets/rajugc/laptop-selection-dataset
-
-## Environments.
-
-Google Colab  / Jupiter Notebooks / Visual Studio Code / Pycharm
-
-##  Required  libraries
-
-pip install pandas
-
-pip install matplotlib
-
-pip install pygwalker
-
-pip install  seaborn
+Dowload the dataset here : 
 
 ## Conclusions.
 
